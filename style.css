@@ -1,3 +1,11 @@
 img {
  width: 300px;
 }
+
+header {
+    background-color: black; /*cor de fundo */ 
+    color:aqua; /*cor da letra */ 
+    max-width: 800px; /*alinhamento do texto */
+    margin 0 auto; /* espaço entre a borda e o conteúdo */
+    padding: 16px; /* espaço entre o conteúdo*/
+}
